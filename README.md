@@ -1,11 +1,11 @@
-# 🌐 Meu Portfólio Pessoal
+# Meu Portfólio Pessoal
 
 Bem-vindo ao repositório do meu *portfólio pessoal*! 🚀  
 Este projeto foi desenvolvido com o objetivo de *treinar meus conhecimentos, **aprimorar boas práticas de código* e *apresentar meus projetos e habilidades* de forma profissional e interativa.
 
 ---
 
-## 🧠 Objetivo do Projeto
+## Objetivo do Projeto
 
 Este portfólio tem como foco:
 - Consolidar conhecimentos em *desenvolvimento front-end moderno* utilizando padrões web abertos;
@@ -14,7 +14,7 @@ Este portfólio tem como foco:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
@@ -28,6 +28,6 @@ Este portfólio tem como foco:
 
 ---
 
-## 🏗️ Estrutura de Código
+## Estrutura de Código
 
 A estrutura de arquivos foi desenhada para separar claramente a camada de *estrutura, **estilo* e *lógica*, facilitando a manutenção e a localização de componentes.
