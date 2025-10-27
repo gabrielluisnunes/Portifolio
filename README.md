@@ -1,16 +1,16 @@
 # Meu Portfólio Pessoal
 
-Bem-vindo ao repositório do meu *portfólio pessoal*! 🚀  
-Este projeto foi desenvolvido com o objetivo de *treinar meus conhecimentos, **aprimorar boas práticas de código* e *apresentar meus projetos e habilidades* de forma profissional e interativa.
+Bem-vindo ao repositório do meu portfólio pessoal! 
+Este projeto foi desenvolvido com o objetivo de treinar meus conhecimentos, aprimorar boas práticas de código e apresentar meus projetos e habilidades de forma profissional e interativa.
 
 ---
 
 ## Objetivo do Projeto
 
 Este portfólio tem como foco:
-- Consolidar conhecimentos em *desenvolvimento front-end moderno* utilizando padrões web abertos;
-- Aplicar boas práticas de *organização de estilos (SCSS), modularização em JavaScript e versionamento de código*;
-- Criar um ambiente dinâmico, responsivo e de *alto desempenho* para expor meus projetos e trajetória profissional.
+- Consolidar conhecimentos em desenvolvimento front-end moderno utilizando padrões web abertos;
+- Aplicar boas práticas de organização de estilos (SCSS), modularização em JavaScript e versionamento de código;
+- Criar um ambiente dinâmico, responsivo e de alto desempenho para expor meus projetos e trajetória profissional.
 
 ---
 
@@ -30,4 +30,4 @@ Este portfólio tem como foco:
 
 ## Estrutura de Código
 
-A estrutura de arquivos foi desenhada para separar claramente a camada de *estrutura, **estilo* e *lógica*, facilitando a manutenção e a localização de componentes.
+A estrutura de arquivos foi desenhada para separar claramente a camada de estrutura, estilo e lógica, facilitando a manutenção e a localização de componentes.
